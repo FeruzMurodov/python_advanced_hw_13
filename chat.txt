@@ -1,0 +1,5 @@
+Feruz:It's test message.
+Feruz:It's the second test message.
+Harry:Stupefy. Time:<method 'time' of 'datetime.datetime' objects>
+Ron:Expeliarmus. Time:<class 'datetime.datetime'>
+Feruz:Assalamu alaykum. Time:2024-10-06 10:28:51.045160
