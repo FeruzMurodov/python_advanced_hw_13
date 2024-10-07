@@ -3,3 +3,4 @@ Feruz:It's the second test message.
 Harry:Stupefy. Time:<method 'time' of 'datetime.datetime' objects>
 Ron:Expeliarmus. Time:<class 'datetime.datetime'>
 Feruz:Assalamu alaykum. Time:2024-10-06 10:28:51.045160
+Hermione:Vingardium Leviosso. Time:2024-10-07 12:02:37.487018
